@@ -11,4 +11,9 @@
 
 # 1.Binary-search
 
-![Intro-to-binary-search](./)
+# 1.1
+![Intro-to-binary-search](./introductionBinarysearch/image1.png)
+# 1.2
+![Intro-to-binary-search](./introductionBinarysearch/image2.png)
+# 1.3
+![Intro-to-binary-search](./introductionBinarysearch/image3.png)
