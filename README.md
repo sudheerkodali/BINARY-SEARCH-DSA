@@ -12,10 +12,10 @@
 # 1.Binary-search
 
 # 1.1
-![Intro-to-binary-search](./introductionBinarysearch/image1.png)
+![Intro-to-binary-search](./introductiontoBinarysearch/image1.png)
 
 # 1.2
-![Intro-to-binary-search](./introductionBinarysearch/image2.png)
+![Intro-to-binary-search](./introductiontoBinarysearch/image2.png)
 
 # 1.3
-![Intro-to-binary-search](./introductionBinarysearch/image3.png)
+![Intro-to-binary-search](./introductiontoBinarysearch/image3.png)
