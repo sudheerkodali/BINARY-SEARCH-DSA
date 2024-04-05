@@ -1,5 +1,4 @@
 # BINARY-SEARCH-DSA
-## Binary-search-javascript
 
 | NO.| questions
 |
