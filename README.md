@@ -12,7 +12,7 @@
 # 1.Binary-search
 
 # 1.1
-<p> binary search and its types </p>
+<p> Binary search and its types </p>
 
 ![Intro-to-binary-search](./introductiontoBinarysearch/image1.png)
 
